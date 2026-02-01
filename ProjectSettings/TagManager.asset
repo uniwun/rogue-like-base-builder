@@ -41,10 +41,10 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: borders
+  - name: Bottom Layer
     uniqueID: 896886745
     locked: 0
-  - name: shops
+  - name: Middle Layer
     uniqueID: 1735999775
     locked: 0
   - name: player
