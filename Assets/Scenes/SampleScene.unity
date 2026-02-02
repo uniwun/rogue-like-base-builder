@@ -266,7 +266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 121914833}
   m_Layer: 0
-  m_Name: borderDarkRealm
+  m_Name: borderArena
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -303,7 +303,7 @@ GameObject:
   - component: {fileID: 214988323}
   - component: {fileID: 214988325}
   m_Layer: 0
-  m_Name: darkRealmTeleportPad
+  m_Name: arenaTeleportPad
   m_TagString: arenaTp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1627,7 +1627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 988497445}
   m_Layer: 0
-  m_Name: darkRealm
+  m_Name: arena
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1799,7 +1799,7 @@ GameObject:
   - component: {fileID: 1025931869}
   - component: {fileID: 1025931870}
   m_Layer: 0
-  m_Name: darkRealmFloor
+  m_Name: arenaFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
